@@ -1,0 +1,48 @@
+body {
+    font-family: "Nanum Brush Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    border-left: 20px solid gray;
+    border-right: 20px solid gray;
+    padding: 35px;
+    margin: 0;
+  }
+h1 {
+    font-family: "Seaweed Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+.image-container-1 {
+    position: relative;
+    background-color: #fff;
+    border: solid 2px lightgray;
+    width: 370px;
+    height: 300px;
+    box-shadow: 6px 6px lightgray;
+    transform: rotate(-5deg);
+    float: right;
+    margin: 20px;
+}
+.image-container-2 {
+    position: relative;
+    background-color: #fff;
+    border: solid 2px lightgray;
+    width: 370px;
+    height: 300px;
+    box-shadow: 6px 6px lightgray;
+    transform: rotate(-5deg);
+    float: left;
+    margin: 20px;
+}
+img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+#hello {
+    position: absolute;
+    top: 260px;
+    left: 168px;
+}
