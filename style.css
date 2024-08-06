@@ -19,7 +19,7 @@ h1 {
     width: 370px;
     height: 300px;
     box-shadow: 6px 6px lightgray;
-    transform: rotate(-5deg);
+    transform: rotate(5deg);
     float: right;
     margin: 20px;
 }
